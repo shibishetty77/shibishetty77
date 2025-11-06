@@ -1,8 +1,41 @@
 <div align="center">
 
-# 🌸✨ Hey there, I'm Shibi R Shetty! ✨🌸
+# 🕸️ ═══════════ 🧬 NEURAL CANOPY ACTIVATED 🧬 ═══════════ 🕸️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+kawaii+corner!;[Your role]+%E2%9C%A8;Coding+with+%E2%9D%A4%EF%B8%8F+and+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&background=0A0E0A&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌿+Shibi R Shetty+%E2%80%A2+Neural+Node+Activated+🌿;🧬+Synaptic+Connections%3A+∞+🧬;🌱+Growing+Through+Code+%26+Curiosity+🌱" alt="Neural Header" />
+
+```
+🌳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌳
+   🍃 ECOSYSTEM STATUS: student,who is ready for opportunities | HABITAT: banglore,India 🍃
+🌳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌳
+```
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="600">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 「 GROWTH LOG - SYNAPTIC BIOGRAPHY 」
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,3,4,5&height=100&section=header&text=🧬+Bio+Neural+Network&fontSize=20&fontColor=ffffff" width="100%"/>
+
+```ascii
+╭─────────────────────────────────────────────────────────────╮
+│  🌿 ROOTED IN CURIOSITY • BRANCHING INTO [Your primaryTech]   │
+│  🍃 BLOOMING INTO OPEN SOURCE • POLLINATING KNOWLEDGE      │
+│                                                             │
+│  📜 GROWTH ESSENCE: I'm a passionate developer who likes learning new things and implmenting in real life....                                │
+│                                                             │
+│  🎯 CURRENT FOCUS: [Your currentFocus]                        │
+│  🌟 LIFE MOTTO: work in noise ,let your failure make you silent                                  │
+│  🦋 METAMORPHOSIS: I like football but i suck at it                             │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
 
 </div>
 
@@ -10,52 +43,46 @@
 
 <div align="center">
 
-## 🎀 About This Kawaii Coder 🎀
+## 🧬 「 GENETIC CODE MATRIX - SKILL DNA 」
 
-<img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,7,8,9&height=100&section=header&text=🔬+DNA+Sequencing&fontSize=20&fontColor=ffffff" width="100%"/>
 
-</div>
+```
+🧬━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🧬
+        GENETIC TRAITS: [Your experienceLevel] | MUTATION: [Your currentLearning]
+🧬━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🧬
+```
 
-🌈 **Bio:** I'm a passionate developer who likes learning new things and implmenting in real life....  
-📍 **Location:** banglore,India  
-💼 **Currently:** student,who is ready for opportunities  
-🎯 **Fun Fact:** I like football but i suck at it  
+<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nextjs,tailwindcss,nodejs,python,mongodb,mysql,figma,jupyter,vscode,github,git)](https://skillicons.dev)&theme=dark&perline=6" />
 
-<div align="center">
+<br/><br/>
 
-### 💖 Current Mood Board 💖
-
-![Pink Cloud](https://img.shields.io/badge/Mood-Kawaii%20Coding-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
-![Status](https://img.shields.io/badge/Status-student,who is ready for opportunities-FFB6C1?style=for-the-badge&logo=sparkles&logoColor=white)
-
-</div>
-
----
-
-## 🚀 My Cutest Projects 🚀
-
-<div align="center">
-
-### 🌟 Featured Creations 🌟
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 💝 portfolio
-It was simple design of my portfolio.I just used HTML and CSS in it.
-
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project1Link])
-![Tech](https://img.shields.io/badge/Tech-HTML and CSS-FFB6C1?style=for-the-badge)
+### 🌳 NEURAL NETWORK STATS
+<img src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=forest&hide_border=true&bg_color=0A1A0A&title_color=00FF7F&icon_color=32CD32&text_color=90EE90" width="100%" />
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🎈 Ecommerce website for shoes
-An ecommerce website for shoes where you can sell your shoes and purchase it.
+### 🍃 GROWTH PATTERNS
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shibishetty77&theme=dark&hide_border=true&background=0A1A0A&ring=00FF7F&fire=32CD32&currStreakLabel=90EE90&sideLabels=90EE90&dates=90EE90" width="100%" />
 
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project2Link])
-![Tech](https://img.shields.io/badge/Tech-HTML,CSS,JAVASCRIPT,NODE JS,REACT JS,MONGO DB-FFB6C1?style=for-the-badge)
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🌿 LANGUAGE ECOSYSTEM
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibishetty77&layout=compact&theme=dark&hide_border=true&bg_color=0A1A0A&title_color=00FF7F&text_color=90EE90" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 🦋 ACTIVITY METAMORPHOSIS  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shibishetty77&theme=high-contrast&hide_border=true&bg_color=0A1A0A&color=00FF7F&line=32CD32&point=90EE90" width="100%" />
 
 </td>
 </tr>
@@ -65,83 +92,128 @@ An ecommerce website for shoes where you can sell your shoes and purchase it.
 
 ---
 
-## 🛠️ My Kawaii Tech Stack 🛠️
-
 <div align="center">
 
-### 💕 Languages I Speak Fluently 💕
+## 🌲 「 PROJECT BIOMES - WILD CODE ZONES 」
 
-![Primary](https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=code&logoColor=white)
-![Lang1](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=code&logoColor=white)
-![Lang2](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=code&logoColor=white)
-![Lang3](https://img.shields.io/badge/Javascript-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10,11,12,13&height=100&section=header&text=🏞️+Ecosystem+Zones&fontSize=20&fontColor=ffffff" width="100%"/>
 
-### 🌸 Skills & Tools 🌸
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-HTML,CSS,JAVASCRIPT,NODEJS,PYTHON,REACT JS,MONGO DB,C,C++
+### 🌊 CRYSTAL LAGOON
+**portfolio**
+```
+🏷️ BIOME: HTML and CSS
+🌡️ CLIMATE: Stable
+🦋 SPECIES: Advanced
+⭐ BIODIVERSITY: ████████░░
+```
+🍃 It was simple design of my portfolio.I just used HTML and CSS in it.
+
+[🌿 EXPLORE HABITAT]([Your project1Link])
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b6a66c3e-7f19-4f0e-8e04-3a3d3a3b1f8c" width="150">
+
+</td>
+<td width="33%" align="center">
+
+### 🌋 DATA VOLCANO
+**Ecommerce website for shoes**
+```
+🏷️ BIOME: HTML,CSS,JAVASCRIPT,NODE JS,REACT JS,MONGO DB
+🌡️ CLIMATE: Experimental
+🦋 SPECIES: Emerging
+⭐ BIODIVERSITY: ██████████
+```
+🌸 An ecommerce website for shoes where you can sell your shoes and purchase it.
+
+[🌿 EXPLORE HABITAT]([Your project2Link])
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4abdfaec-c5b8-4e4b-9cb0-20da8079b259" width="150">
+
+</td>
+<td width="33%" align="center">
+
+### 🌙 MYSTIC GROVE
+**[Your project3Name]**
+```
+🏷️ BIOME: [Your project3Tech]
+🌡️ CLIMATE: Mysterious
+🦋 SPECIES: Rare
+⭐ BIODIVERSITY: ████████░░
+```
+🌺 [Your project3Description]
+
+[🌿 EXPLORE HABITAT]([Your project3Link])
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="150">
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📚 Currently Learning 📚
-
 <div align="center">
 
-🌱 **Growing my skills in:** [Your currentLearning]
+## 🌺 「 SYMBIOTIC NETWORK - LIFE CONNECTIONS 」
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibishetty77&theme=radical&hide_border=true&background=FF69B4&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=14,15,16,17&height=100&section=header&text=🕷️+Web+of+Life&fontSize=20&fontColor=ffffff" width="100%"/>
 
-</div>
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  🕸️ ESTABLISHING NEURAL PATHWAYS TO EXTERNAL ECOSYSTEMS...              ║
+║  🌐 SIGNAL STRENGTH: ████████████████████████████████████████ 100%      ║
+║  🧬 PREPARING SYNAPTIC HANDSHAKE PROTOCOLS...                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
----
-
-## 💫 Fun Zone 💫
-
-<div align="center">
-
-### 🎀 Personal Tidbits 🎀
-
-🎨 **Hobbies:** watching anime  
-🎯 **Current Goal:** too become a successful entrepreneur  
-✨ **Life Motto:** work in noise ,let your failure make you silent  
-
-<img src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=radical&hide_border=true&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFB6C1" alt="GitHub Stats" width="400"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💌 Let's Connect & Create Magic Together! 💌
-
-<a href="https://linkedin.com/in/shibi-shetty-7b0539339/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://shibi-shetty-7b0539339/">
+  <img src="https://img.shields.io/badge/🍄_LinkedIn_Mycelium-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F5233" />
 </a>
-<a href="https://twitter.com/[Your twitter]">
-  <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://discord.gg/[Your discord]">
-  <img src="https://img.shields.io/badge/Discord-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="https://[Your twitter]">
+  <img src="https://img.shields.io/badge/🐝_Twitter_Hive-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2F5233" />
 </a>
 <a href="[Your website]">
-  <img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/🌸_Web_Garden-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2F5233" />
 </a>
-<a href="mailto:shibishetty2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="[Your portfolio]">
+  <img src="https://img.shields.io/badge/🦋_Portfolio_Grove-9146FF?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=2F5233" />
+</a>
+<a href="https://medium.com/@shibishetty77">
+  <img src="https://img.shields.io/badge/🌿_Medium_Forest-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=2F5233" />
+</a>
+<a href="https://codepen.io/shibishetty77">
+  <img src="https://img.shields.io/badge/🎋_CodePen_Bamboo-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=2F5233" />
+</a>
+<a href="https://replit.com/@shibishetty77">
+  <img src="https://img.shields.io/badge/🌊_Replit_Stream-667881?style=for-the-badge&logo=replit&logoColor=white&labelColor=2F5233" />
+</a>
+<a href="https://stackshare.io/shibishetty77">
+  <img src="https://img.shields.io/badge/🏔️_StackShare_Peak-0690FA?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=2F5233" />
 </a>
 
-### 🌸 Thanks for visiting my kawaii corner! 🌸
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shibishetty77&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+```
+╭──────────────────────────────────────────────────────────────────╮
+│  🧬 NEURAL CONNECTIONS ESTABLISHED: [VISITOR_COUNT]              │
+│  🌱 ECOSYSTEM GROWTH RATE: [PROFILE_VIEWS] symbioses/day        │
+│  🍃 LAST PHOTOSYNTHESIS: [LAST_COMMIT] cycles ago               │
+╰──────────────────────────────────────────────────────────────────╯
+```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://komarev.com/ghpvc/?username=shibishetty77&label=🧬+Neural+Connections&color=00FF7F&style=plastic" />
+<img src="https://badges.pufler.dev/visits/shibishetty77/shibishetty77?logo=GitHub&label=🌱+Ecosystem+Visits&color=32CD32&logoColor=white&style=plastic" />
 
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95706c10d7ce" width="600">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7,8,9&height=80&section=footer&text=🌿+Keep+Growing+🌿&fontSize=16&fontColor=ffffff" width="100%"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+**🍃 [ ECOSYSTEM CONTINUES TO EVOLVE... ] 🍃**
+
 </div>
