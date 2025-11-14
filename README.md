@@ -93,7 +93,7 @@ I'm a passionate developer who likes learning new things and implmenting in real
 ### 💚 System Uptime
 ![Profile Views](https://komarev.com/ghpvc/?username=shibishetty77&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
-**"""As long as I'm alive I have infinite chances""** - Shibi R Shetty
+**"""As long as I'm alive I have infinite chances""** - MONKEY D LUFFY
 
 ---
 
