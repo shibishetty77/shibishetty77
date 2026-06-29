@@ -1,23 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **SHIBI R SHETTY**
+<img src="images/profile.png" width="170" alt="Shibi R Shetty"/>
 
-### 🚀 Cloud • DevOps • Backend • AI Enthusiast
+# Hi 👋, I'm SHIBI R SHETTY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;Backend+Developer;Building+Scalable+Applications;Learning+System+Design;Always+Learning+Something+New" />
+### Cloud & DevOps Enthusiast • Backend Developer • AI Explorer
 
-### **"ONE PIECE IS REAL." ☠️**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;Learning+Cloud+%26+DevOps;Backend+Developer;AI+Enthusiast;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=shibishetty77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
+<p>
 <a href="https://github.com/shibishetty77">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -26,151 +17,144 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:shibishetty2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 <a href="https://www.instagram.com/shetty_shibi/?hl=en">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="mailto:shibishetty2@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
+
+![](https://komarev.com/ghpvc/?username=shibishetty77&style=for-the-badge&color=blue)
+
+</div>
 
 ---
 
 # 💻 About Me
 
-🎓 B.Tech Student at **PES University, Bangalore**
+🎓 B.Tech Computer Science student at **PES University, Bangalore**
 
-I am a developer passionate about building scalable software while continuously learning **Cloud Computing**, **DevOps**, **Backend Engineering**, **System Design**, and **Artificial Intelligence**.
+I enjoy building scalable applications while continuously learning **Cloud Computing**, **DevOps**, **Backend Development**, **System Design**, and **Artificial Intelligence**.
 
-I enjoy transforming ideas into real-world applications using modern technologies while focusing on writing clean, efficient, and production-ready code.
+My goal is to become a software engineer capable of building reliable, production-ready systems that solve real-world problems.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Currently Learning
 
-| 🔥 Focus                  | Status                              |
-| ------------------------- | ----------------------------------- |
-| ☁️ Cloud Computing        | Learning                            |
-| ⚙️ DevOps                 | Learning Docker, CI/CD & Deployment |
-| 🏗️ System Design         | Beginner                            |
-| 🤖 AI Applications        | Building Practical Projects         |
-| 🌐 Full Stack Development | React + Supabase                    |
+- ☁️ AWS Cloud Computing
+- 🐳 Docker
+- ⚙️ DevOps Fundamentals
+- 🏗️ System Design
+- 📈 Data Structures & Algorithms
+- 🤖 AI Engineering
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
 </p>
-
----
 
 ### Frontend
 
 <p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
----
-
-### Backend & Database
+### Backend
 
 <p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
----
-
-### Cloud & DevOps
+### Databases
 
 <p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase"/>
+</p>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+### Cloud & Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-| Project                     | Description                                                                           |
-| --------------------------- | ------------------------------------------------------------------------------------- |
-| 👟 **SoleSphere**           | Modern e-commerce platform with responsive UI and authentication.                     |
-| 💹 **Finance Copilot**      | AI-powered finance assistant helping users understand financial information.          |
-| 📋 **FastBit Inquiry Form** | React + Supabase based inquiry management system with real-time database integration. |
+## 👟 SoleSphere
+
+Full Stack Sneaker Marketplace featuring authentication, product management, shopping cart, order management and an interactive 3D sneaker customization experience.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Three.js`
+
+🔗 **Repository:** *Coming Soon*
+
+---
+
+## 💹 Finance Copilot
+
+AI-powered finance platform for portfolio management, transaction tracking and financial analytics.
+
+**Tech Stack**
+
+`React`
+
+`FastAPI`
+
+`PostgreSQL`
+
+`TypeScript`
+
+🔗 **Repository:** *Coming Soon*
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibishetty77&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibishetty77&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibishetty77&theme=github-dark-blue&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibishetty77&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibishetty77&theme=github-compact"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 Achievements
 
-🥇 93% in Higher Secondary (12th)
+🏅 94% in PUC
 
-🥈 88% in Secondary School (10th)
+🏅 88% in CBSE (10th)
 
 ⚽ District Level Football Player
 
@@ -180,63 +164,43 @@ I enjoy transforming ideas into real-world applications using modern technologie
 
 # 🎓 Education
 
-**Bachelor of Technology (B.Tech)**
+**Bachelor of Technology (Computer Science)**
 
-🏫 PES University
-
-📍 Bangalore, India
+📍 PES University, Bangalore
 
 ---
 
-# 📊 Profile Snapshot
+# 🎯 2026 Goals
 
-| Category              | Details                                                 |
-| --------------------- | ------------------------------------------------------- |
-| 🎯 Domain             | Cloud Computing, DevOps, Backend Development            |
-| 🌍 Location           | Bangalore, India                                        |
-| 💼 Current Role       | Student                                                 |
-| 📚 Currently Learning | Cloud, DevOps, System Design                            |
-| 🤝 Looking For        | Collaborations • Open Source • Networking               |
-| 📧 Email              | [shibishetty2@gmail.com](mailto:shibishetty2@gmail.com) |
+- ✅ Master Docker
+- ⬜ Learn Kubernetes
+- ⬜ AWS Cloud Practitioner
+- ⬜ Build Production Ready Applications
+- ⬜ Contribute to Open Source
+- ⬜ Master System Design
 
 ---
 
-# 🌱 2026 Goals
+# 📬 Let's Connect
 
-✅ Master Docker
+<p align="center">
 
-✅ Learn Kubernetes
+<a href="mailto:shibishetty2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-✅ AWS Cloud Practitioner
+<a href="https://www.linkedin.com/in/shibi-shetty-7b0539339/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-✅ Build Production-Ready Projects
-
-✅ Contribute to Open Source
-
-✅ Strengthen System Design Skills
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-* Cloud Computing Projects
-* DevOps Automation
-* Backend Development
-* AI Applications
-* Open Source Contributions
-
-If you'd like to work together or simply connect, feel free to reach out.
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Thanks for visiting my profile!
 
-### 🚀 Always Learning • Always Building • Always Improving
-
-*Last Updated: June 2026*
+*"ONE PIECE IS REAL."* ☠️
 
 </div>
