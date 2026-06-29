@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="images/profile.png" width="170" alt="Shibi R Shetty"/>
+<img src="<img width="960" height="1280" alt="WhatsApp Image 2026-06-28 at 9 55 08 PM" src="https://github.com/user-attachments/assets/bcb3b77e-26f2-4480-9662-45bb510cb36b" />
+" width="170" alt="Shibi R Shetty"/>
 
 # Hi 👋, I'm SHIBI R SHETTY
 
