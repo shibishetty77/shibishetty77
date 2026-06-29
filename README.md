@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="images/profile.png" width="170" alt="Shibi R Shetty"/>
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
-# Hi 👋 I'm SHIBI R SHETTY
+# 👋 Hi, I'm SHIBI R SHETTY
 
 ### Cloud & DevOps Enthusiast • Backend Developer • AI Explorer
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;Learning+Cloud+%26+DevOps;Backend+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+Something+New"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Cloud+%7C+DevOps+%7C+Backend;Learning+System+Design;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
 </p>
 
-<p>
+<p align="center">
 
 <a href="https://github.com/shibishetty77">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/shetty_shibi">
+<a href="https://www.instagram.com/shetty_shibi/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -36,36 +36,62 @@
 
 ---
 
-# 💻 About Me
+# 💫 About Me
 
-🎓 B.Tech Computer Science Student at **PES University**
+🎓 B.Tech Computer Science Student at **PES University, Bangalore**
 
-☁️ Currently learning **Cloud Computing**, **DevOps**, **System Design**, and **Backend Development**
+💻 Passionate about Backend Development, Cloud Computing, DevOps and AI.
 
-🚀 Passionate about building scalable software and solving real-world problems.
+🚀 I enjoy building scalable full-stack applications and continuously improving my software engineering skills.
 
-⚡ I enjoy creating full-stack applications while continuously improving my DSA and software engineering skills.
+📚 Currently learning AWS, Docker, DevOps, System Design and strengthening my DSA skills.
 
 ---
 
 # 🚀 Current Focus
 
-- ☁ AWS Cloud
-- 🐳 Docker
-- ⚙ DevOps
-- 🏗 System Design
-- 📈 Data Structures & Algorithms
-- 🤖 AI Applications
+```text
+☁️ Cloud Computing
+🐳 Docker
+⚙️ DevOps
+🏗️ System Design
+📈 Data Structures & Algorithms
+🤖 Artificial Intelligence
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,firebase,docker,aws,git,github,linux,vscode"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+</p>
 
-</div>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+</p>
 
 ---
 
@@ -75,36 +101,30 @@
 
 > Full Stack Sneaker Marketplace
 
-- Authentication
-- Cart & Orders
+- Secure Authentication
+- Shopping Cart
+- Order Management
 - Resell Marketplace
-- 3D Sneaker Customization
+- Interactive 3D Sneaker Customization
 
 **Tech**
 
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`Three.js`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Three.js`
 
 ---
 
 ## 💹 Finance Copilot
 
-> AI Powered Finance Platform
+> AI Powered Personal Finance Platform
 
-- Portfolio Tracking
+- Portfolio Management
+- Transaction Tracking
 - JWT Authentication
 - Financial Analytics
-- Transaction Management
 
 **Tech**
 
-`React`
-`FastAPI`
-`PostgreSQL`
-`TypeScript`
+`React` • `FastAPI` • `PostgreSQL` • `TypeScript`
 
 ---
 
@@ -112,17 +132,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shibishetty77&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibishetty77&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibishetty77&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shibishetty77&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shibishetty77&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -132,7 +152,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shibishetty77&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shibishetty77&theme=github-dark"/>
 
 </div>
 
@@ -140,13 +160,10 @@
 
 # 🏆 Achievements
 
-🏅 94% in PUC
-
-🏅 88% in CBSE
-
-⚽ District Level Football Player
-
-🏃 District Level 400m Athlete
+- 🥇 94% in PUC
+- 🥈 88% in CBSE (10th)
+- ⚽ District Level Football Player
+- 🏃 District Level 400m Athlete
 
 ---
 
@@ -154,31 +171,33 @@
 
 **Bachelor of Technology (Computer Science)**
 
-📍 PES University, Bangalore
+🏫 PES University
+
+📍 Bangalore, India
 
 ---
 
 # 🌱 2026 Goals
 
-- Learn Docker
-- Learn Kubernetes
-- AWS Cloud Practitioner
-- Master Backend Development
-- Build Production Ready Applications
-- Contribute to Open Source
+- ✅ Master Docker
+- ⬜ Learn Kubernetes
+- ⬜ AWS Cloud Practitioner
+- ⬜ Build Production-Ready Applications
+- ⬜ Contribute to Open Source
+- ⬜ Master System Design
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
-<p>
+<p align="center">
 
 <a href="mailto:shibishetty2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shibi-shetty-7b0539339/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -190,5 +209,7 @@
 ### ⭐ Thanks for visiting my profile!
 
 > **"ONE PIECE IS REAL." ☠️**
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
