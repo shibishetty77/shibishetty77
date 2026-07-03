@@ -1,4 +1,4 @@
- 👋 Hi, I'm SHIBI R SHETTY
+ <p align="center"><h1>👋 Hi, I'm SHIBI R SHETTY</h1><p align="center">
 
 ### Cloud & DevOps Enthusiast • Backend Developer • AI Explorer
 
