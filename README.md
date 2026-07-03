@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/banner.png" alt="Banner" width="100%" />
-
 # 👋 Hi, I'm SHIBI R SHETTY
 
 ### Cloud & DevOps Enthusiast • Backend Developer • AI Explorer
