@@ -1,4 +1,4 @@
- <p align="center"><h1>👋 Hi, I'm SHIBI R SHETTY</h1></p>
+<h1 align="center">👋 Hi, I'm Shibi R Shetty</h1>
 
 ### Cloud & DevOps Enthusiast • Backend Developer • AI Explorer
 
