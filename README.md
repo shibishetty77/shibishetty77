@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=220&section=header&text=Shibi%20R%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20AI%2FML%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=180&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shibi+R+Shetty;Backend+Developer;Cloud+%26+DevOps+Enthusiast;AI%2FML+Systems+Explorer" />
 
 Building scalable backend systems and exploring where cloud infrastructure meets applied AI.
 
@@ -102,6 +104,20 @@ AI-powered personal finance platform for portfolio and transaction management.
 <img src="https://streak-stats.demolab.com?user=shibishetty77&theme=github-dark-blue&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibishetty77&theme=github-dark" width="90%"/>
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibishetty77/shibishetty77/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibishetty77/shibishetty77/output/github-contribution-grid-snake.svg">
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/shibishetty77/shibishetty77/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
