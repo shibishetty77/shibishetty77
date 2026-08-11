@@ -1,8 +1,6 @@
 <div align="center">
 
-# Shibi R Shetty
-
-**Backend Developer · Cloud & DevOps · AI/ML Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=220&section=header&text=Shibi%20R%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20AI%2FML%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 Building scalable backend systems and exploring where cloud infrastructure meets applied AI.
 
@@ -120,5 +118,7 @@ AI-powered personal finance platform for portfolio and transaction management.
 <div align="center">
 
 *Code. Learn. Build. Repeat.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=120&section=footer" width="100%"/>
 
 </div>
