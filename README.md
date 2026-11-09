@@ -127,8 +127,6 @@ AI-powered personal finance platform for portfolio and transaction management.
 
 **Education** — B.Tech, Computer Science, PES University, Bangalore
 
-**Achievements** — 94% PUC · 88% CBSE (10th) 
-
 <br>
 
 <div align="center">
