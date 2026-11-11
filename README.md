@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:ff1a1a&height=160&section=header" width="100%"/>
 
-<img src="assets/pixel-hands.svg" alt="Pixelated hands reaching toward each other" width="100%"/>
+<img src="https://raw.githubusercontent.com/shibishetty77/shibishetty77/main/assets/pixel-hands.svg" alt="Pixelated hands reaching toward each other" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=ff1a1a&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Shibi+R+Shetty;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Networks+%26+Systems+Tinkerer;AI%2FML+Systems+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=ff1a1a&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Shibi+R+Shetty;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Networks+%26+Systems+Tinkerer;AI%2FML+Systems+Explorer" />
 
 Building scalable backend systems and exploring where cloud infrastructure meets applied AI.
 
@@ -70,58 +70,28 @@ B.Tech Computer Science student at **PES University, Bangalore**, focused on bac
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 [Reliable UDP Group Notification System](https://github.com/shibishetty77/RELIABLE-UDP-GROUP-NOTIFICATION-SYSTEM)
-A group notification system built on UDP with reliability added on top: delivering messages to every member of a group without relying on TCP.
+### 📚 [Gyaani Vector](https://github.com/shibishetty77/gyaani-vector)
+Vector-search powered knowledge project: embeds content and retrieves the most relevant answers by semantic similarity.
 
-`Python` · `UDP` · `Sockets` · `Networking`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [SDN Mininet: Multi-Flow Switch Analyzer](https://github.com/shibishetty77/SDN-MININET--MULTI-FLOW-SWITCH-ANALYZER)
-A software-defined networking project that emulates a network in Mininet and analyzes traffic across multiple flows through a switch.
-
-`Python` · `SDN` · `Mininet` · `OpenFlow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👟 [SoleSphere](https://github.com/shibishetty77/SNEAKER-WEBSITE-solesphere-)
-Full-stack sneaker marketplace with a resale layer and interactive 3D product customization.
-
-- Secure authentication & order management
-- Shopping cart and resell marketplace
-- Interactive 3D sneaker customization
-
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Three.js`
+`Python` · `Embeddings` · `Vector Search`
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ [PES-VCS](https://github.com/shibishetty77/PES2UG24CS467-pes-vcs)
-A version control system written in C, built to understand how Git-style tools work under the hood.
+### 💹 [CortexFi](https://github.com/shibishetty77/cortexfi)
+AI-assisted finance platform for tracking and understanding your money.
 
-`C` · `Systems` · `File I/O`
+`FastAPI` · `React` · `PostgreSQL` · `AI`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🧩 [Crossword Puzzle Game](https://github.com/shibishetty77/CROSSWORD-PUZZEL-GAME)
-A crossword puzzle game written in C, covering grid logic, word placement and game flow.
+### 🤝 [Creator Connect](https://github.com/shibishetty77/creator-connect)
+Platform that connects creators with the people and brands they want to work with.
 
-`C` · `Data Structures`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio](https://github.com/shibishetty77/portfolio)
-My personal portfolio website.
-
-`HTML` · `CSS`
+`React` · `Node.js` · `MongoDB`
 
 </td>
 </tr>
