@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:ff1a1a&height=160&section=header" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/shibishetty77/shibishetty77/main/assets/pixel-hands.svg" alt="Pixelated hands reaching toward each other" width="100%"/>
 
