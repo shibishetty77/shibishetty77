@@ -96,8 +96,8 @@ Platform that connects creators with the people and brands they want to work wit
 </tr>
 </table>
 
-### 🧠 Currently building: Graph RAG vs. Vector RAG
-Two independent RAG systems built to compare retrieval architectures on the same domain. The **Vector RAG** capstone is complete (FastAPI · LangChain · Gemini 2.5 Flash · Supabase pgvector). **Graph RAG** is in progress (FastAPI · Neo4j · Cypher), with deterministic YAML ingestion and rule-based Cypher generation rather than LLM-generated queries.
+### 🧠 Graph RAG vs. Vector RAG
+Two independent RAG systems built to compare retrieval architectures on the same domain. The **Vector RAG** is complete (FastAPI · LangChain · Gemini 2.5 Flash · Supabase pgvector). **Graph RAG** is in progress (FastAPI · Neo4j · Cypher), with deterministic YAML ingestion and rule-based Cypher generation rather than LLM-generated queries.
 
 <br>
 
